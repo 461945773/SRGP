@@ -1,2 +1,2 @@
 # SRGP
-The Simple Raster Graphics Package
+The Simple Raster Graphics Package is composed of a library of functions, and a header le (\srgp.h") that denes custom data types and constants, and which prototypes all SRGP routines. This paper is a complete but extremely terse description of the ANSI-C SRGP binding | this is not a tutorial. If you are new to SRGP, you must read Chapter 2 of Computer Graphics | Principles and Practice (Foley, van Dam, Feiner, and Hughes, Addison-Wesley, 1990).
